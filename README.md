@@ -1,4 +1,4 @@
-# What is Design Thinking eLearning Course (Example COming Soon!)
+# What is Design Thinking eLearning Course (Example Coming Soon!)
 
 This repository contains the complete materials for a fully asynchronous eLearning course on Design Thinking. The course introduces learners to a human-centered, iterative problem-solving approach that focuses on understanding user needs, challenging assumptions, and creating innovative solutions through collaboration and experimentation.
 
