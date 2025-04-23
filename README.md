@@ -7,3 +7,7 @@ Learners will explore the five key phases of Design Thinking: Empathize, Define,
 Additionally, the course includes case studies that highlight successful applications of Design Thinking across product design, business strategy, and educational innovation. Assessments and project-based activities are incorporated to reinforce learning outcomes and provide opportunities for hands-on experience.
 
 This asynchronous course is designed to accommodate learners at all levels who want to develop a strong understanding of Design Thinking and learn how to apply it effectively across different industries.
+
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
