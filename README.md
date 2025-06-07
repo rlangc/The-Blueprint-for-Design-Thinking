@@ -6,7 +6,7 @@ The eLearning course introduces learners to a human-centered, iterative approach
 
 In addition to the course itself, this repository includes all content created across the ADDIE model, including analysis documents, design blueprints, development assets, implementation plans, and evaluation reports. These materials provide insight into the instructional design decisions that shaped the course.
 
-This repository also features academic content from the creator’s **Bachelor of Design Studies program at West Virginia University (WVU)**. Included are design papers, frameworks, and project work that further explore the theory and practice of Design Thinking from an academic perspective.
+This repository also features academic content from the creator’s **Bachelor of Design Studies program at West Virginia University **. Included are design papers, frameworks, and project work that further explore the theory and practice of Design Thinking from an academic perspective.
 
 Overall, this resource is ideal for learners seeking to build their knowledge of Design Thinking, instructional designers looking for a model project built with ADDIE, and professionals interested in the intersection of design, learning, and innovation.
 
