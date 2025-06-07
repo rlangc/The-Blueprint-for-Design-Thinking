@@ -1,4 +1,4 @@
-# Design Thinking eLearning Course & Archive
+# Design Thinking Unboxed
 
 This repository contains a comprehensive collection of resources dedicated to **Design Thinking**, featuring a fully asynchronous eLearning course alongside supporting materials developed throughout the **ADDIE instructional design process**. It is intended to serve as both a learning experience for end users and a complete showcase of the instructional design workflow behind the course.
 
