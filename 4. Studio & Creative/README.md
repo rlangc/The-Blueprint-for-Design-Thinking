@@ -1,0 +1,1 @@
+This section highlights the hands-on, exploratory side of design through examples of studio-based work, sketching exercises, prototyping techniques, and iterative development. Artifacts emphasize visual thinking, creative experimentation, and design journaling, reflecting how conceptual ideas are translated into tangible forms through applied practice.
