@@ -1,0 +1,1 @@
+This repository explores the core of Design Thinking and Design Studies, blending human-centered design methodology with critical inquiry and studio practice. It serves as a curated archive of design methods, tools, theoretical foundations, and academic work rooted in both the WVU Design Studies program and real-world application.
