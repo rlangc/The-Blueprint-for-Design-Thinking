@@ -1,0 +1,1 @@
+This section captures the academic and philosophical foundations of design, drawing from influential thinkers and models in the field. Materials explore topics like systems thinking, reflection-in-action, semiotics, and the "wicked problem" construct, offering conceptual depth that supports both scholarly and applied design work.
