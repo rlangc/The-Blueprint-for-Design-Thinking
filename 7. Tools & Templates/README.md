@@ -1,0 +1,1 @@
+This section offers ready-to-use resources that support the practical application of design strategies. Included are worksheets, digital templates, workshop tools, process maps, and critique rubrics—each designed to scaffold design activities and streamline creative collaboration in both individual and team settings.
