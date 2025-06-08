@@ -1,1 +1,3 @@
+Explore a curated selection of academic work from the Bachelor of Science in Design Studies program at West Virginia University, showcasing early explorations in design thinking, visual communication, and creative problem-solving. These assignments highlight the integration of theory and practice across diverse design challenges, methodologies, and contexts.
 
+Each artifact illustrates the development of foundational design competencies and a growing understanding of user-centered principles, innovation, and strategic design. Collectively, they offer meaningful insight into the academic groundwork that informs the applied focus of this repository in both Design Thinking and Instructional Design.
