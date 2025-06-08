@@ -1,0 +1,1 @@
+This section curates recommended books, articles, toolkits, and external links that expand understanding of design thinking and design studies. These references support continued learning and connect users to thought leadership, professional organizations, and community-driven repositories within the broader design field.
