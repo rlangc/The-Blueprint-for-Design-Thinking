@@ -1,0 +1,1 @@
+Dedicated to the core principles of empathy-driven design, this section includes templates, tools, and research methods that support understanding user needs and contexts. Resources such as empathy maps, persona development guides, and inclusive design briefs help ground the design process in accessibility, equity, and human experience.
