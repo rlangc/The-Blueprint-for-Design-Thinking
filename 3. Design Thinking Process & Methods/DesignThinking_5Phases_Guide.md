@@ -70,6 +70,8 @@ Design Thinking is a user-centered, iterative methodology that emphasizes empath
 - Insight into how users interact with your prototype
 - Data for iteration and improvement
 
+#
+
 ### Iteration Note
 
 Design Thinking is not linear—teams often loop between phases as new insights emerge.
