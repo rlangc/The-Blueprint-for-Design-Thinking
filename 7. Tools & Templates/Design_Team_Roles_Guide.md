@@ -2,7 +2,7 @@
 
 This guide outlines common roles within a collaborative design thinking team. Clear role definition supports inclusive participation, ensures effective facilitation, and keeps the design process focused and productive.
 
-## 🔧 Common Team Roles
+## Common Team Roles
 
 ### 1. Facilitator
 **Role:** Leads the session, manages time, ensures participation, and maintains group focus.  
@@ -42,9 +42,7 @@ This guide outlines common roles within a collaborative design thinking team. Cl
 - References user research and personas
 - Brings empathy and inclusive design perspectives
 
----
-
-## 🧩 Tips for Assigning Roles
+## Tips for Assigning Roles
 - Rotate roles to build team versatility and engagement.
 - Align roles to participants’ strengths and comfort zones.
 - Use name tags, cards, or templates to clarify roles during workshops.
